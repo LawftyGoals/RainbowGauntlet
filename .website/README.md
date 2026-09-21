@@ -10,7 +10,7 @@ WASD - Movement
 Space - Melee Attack (rainbow blast)
 Left Mouse Click - Ranged Attack
 Shift - Speed boost
-P - Start the game or pause it during play
+P - Start the game when you first open it or pause/unpause it during play
 R - Restart game after death or RR if you want to restart it during play
 
 Good luck unicorn.
